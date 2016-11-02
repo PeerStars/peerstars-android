@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app1="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.peerstars.android.pststartup.PSTStartupActivity">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/imgUser"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/background_splash"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ps_splash" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transbackgroundblack" />
+    </FrameLayout>
+
+    <com.peerstars.android.pstutilities.PSTCustomTextView
+        android:id="@+id/CustomTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="108dp"
+        android:text="@string/company_name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        app1:customFont="varsity_regular.ttf" />
+
+    <com.peerstars.android.pstutilities.PSTCustomTextView
+        android:id="@+id/CustomTextView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/CustomTextView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/your_yearbook"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        app1:customFont="varsity_regular.ttf" />
+
+    <TextView
+        android:id="@+id/txtSignIn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/CustomTextView3"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:contentDescription="Sign in button"
+        android:enabled="true"
+        android:gravity="center"
+        android:onClick="btnSignIn_OnClick"
+        android:text="@string/sign_in"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/transbackgroundblack"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="btnSignUp_OnClick"
+        android:text="@string/sign_up"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/txtForgotPWord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/txtSignUp"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:clickable="true"
+        android:contentDescription="@string/forgot_password"
+        android:enabled="true"
+        android:gravity="center"
+        android:onClick="btnForgotPWord_OnClick"
+        android:text="@string/forgot_password"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="18sp" />
+
+    <com.peerstars.android.pstutilities.PSTCustomTextView
+        android:id="@+id/CustomTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/CustomTextView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/remembering"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        app1:customFont="varsity_regular.ttf" />
+
+</RelativeLayout>

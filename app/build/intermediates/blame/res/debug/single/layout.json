@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirmation_yes_no.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\confirmation_yes_no.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_item_dropdown_menu.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\feed_item_dropdown_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_signature_video_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_signature_video_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_dropdown_item_2line.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\simple_dropdown_item_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_startup.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_account.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_tags.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_edit_tags.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_content.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_view_content.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_portrait_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_portrait_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\croping_selector.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\croping_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pstselect_member.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_pstselect_member.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peer_stars_web_page.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_peer_stars_web_page.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_member_list_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_member_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_group.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_select_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_owned_item_dropdown_menu.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\feed_owned_item_dropdown_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_feed_image_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_feed_image_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pstimage_full_screen.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_pstimage_full_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_portraits.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_portraits.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_feed_video_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_feed_video_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_checkbox_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_checkbox_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signatures.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_signatures.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabbed.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_signature_text_item.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\custom_signature_text_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accept_create_account.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\layout\\accept_create_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    }
+]

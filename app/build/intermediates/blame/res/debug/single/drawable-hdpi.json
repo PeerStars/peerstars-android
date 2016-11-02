@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_button96.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\camera_button96.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clock.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\peersbgtemp.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\peersbgtemp.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\signatures_button96.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\signatures_button96.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\portraits96.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\portraits96.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_cell_symbol.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\camera_cell_symbol.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ps_splash.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\ps_splash.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_capture_button.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\camera_capture_button.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_capture_button68.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\camera_capture_button68.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\profile_button96.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\profile_button96.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_icon96.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\home_icon96.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clockblue.png",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\drawable-hdpi\\clockblue.png"
+    }
+]

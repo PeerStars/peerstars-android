@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pstprofile.PSTProfileActivity">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="113dp"
+        android:id="@+id/profilePhoto"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/none"
+        android:src="@drawable/profile_button96"
+        android:clickable="true"
+        android:onClick="retakeProfilePicture"></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/touch_to_change"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:background="@drawable/transbackgroundgrey" />
+
+
+    <TextView
+        android:id="@+id/spanMyPeerBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:ems="10"
+        android:layout_below="@+id/profilePhoto"
+        android:text="@string/my_peerbook"
+        android:gravity="center"
+        android:typeface="serif"
+        android:onClick="onClick_PeerBook"
+        android:padding="8dp" />
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridViewProfile"
+        android:layout_below="@+id/spanMyPeerBook" />
+
+</RelativeLayout>

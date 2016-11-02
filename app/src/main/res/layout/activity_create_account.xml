@@ -1,0 +1,171 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transbackgroundblack"
+    android:orientation="vertical"
+    tools:context=".pstcreate_account.PSTCreateAccountActivity">
+
+    <FrameLayout
+        android:id="@+id/baseLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:id="@+id/imgCreate"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/none"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ps_splash" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transbackgroundblack" />
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/controlsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txtCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="false"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="10dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:onClick="btnCancel_OnClick"
+            android:text="@string/cancel"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/txtSelectGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="false"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/next"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="10dp"
+            android:onClick="btnSelectGroup_OnClick" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imgUser"
+        android:layout_width="120dp"
+        android:layout_height="113dp"
+        android:layout_below="@+id/controlsLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:onClick="takeProfilePicture"
+        android:src="@drawable/profile_button96"
+        android:contentDescription="@string/none"
+        android:background="@drawable/transbackgroundwhiteredborder" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/controlsLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/touch_to_change"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top" />
+
+    <EditText
+        android:id="@+id/txtFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgUser"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/transbackgroundwhiteredborder"
+        android:ems="10"
+        android:inputType="textCapWords"
+        android:hint="@string/first_name"
+        android:paddingStart="10dp"
+        android:paddingEnd="1dp" />
+
+    <EditText
+        android:id="@+id/txtLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/txtFirstName"
+        android:layout_below="@+id/txtFirstName"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/transbackgroundwhiteredborder"
+        android:ems="10"
+        android:inputType="textCapWords"
+        android:paddingStart="10dp"
+        android:paddingEnd="1dp"
+        android:hint="@string/last_name" />
+
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtLastName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/transbackgroundwhiteredborder"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:paddingStart="10dp"
+        android:paddingEnd="1dp"
+        android:hint="@string/email_address">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/txtEmail"
+        android:layout_alignEnd="@+id/txtEmail"
+        android:layout_below="@+id/txtEmail"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/transbackgroundwhiteredborder"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+        android:paddingStart="10dp"
+        android:paddingEnd="1dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/txtPassword"
+        android:layout_alignEnd="@+id/txtPassword"
+        android:layout_below="@+id/txtPassword"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/transbackgroundwhiteredborder"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/txtGradYear"
+        android:layout_gravity="center_horizontal|bottom"
+        android:hint="@string/class_year"
+        android:paddingStart="10dp"
+        android:paddingEnd="1dp" />
+
+</RelativeLayout>

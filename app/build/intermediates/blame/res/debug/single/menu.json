@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\camera.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\camera.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_peer_stars_web_page.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\menu_peer_stars_web_page.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tabbed.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\tabbed.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit_tags.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\menu_edit_tags.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\create_account.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\create_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\src\\main\\res\\menu\\home.xml"
+    }
+]

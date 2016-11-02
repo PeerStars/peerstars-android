@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/delete_entry"
+        android:id="@+id/txtDelete"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="12dp"
+        android:background="@drawable/transbackgroundred" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/edit_tags"
+        android:id="@+id/txtEditTags"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/share"
+        android:id="@+id/txtShare"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Cancel"
+        android:id="@+id/txtCancelFeedMenu"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:textColor="#FF0000"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:padding="8dp" />
+
+</LinearLayout>

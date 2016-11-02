@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.peerstars.android.pstportraits.PSTCustomImageView
+        android:id="@+id/picture"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#55000000"
+        android:paddingBottom="15dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="15dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/txtGrad"
+        android:layout_gravity="end|top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:height="60dp"
+        android:width="60dp"
+        android:gravity="end"
+        android:textColor="@android:color/white"
+        android:background="@drawable/transbackgroundgreytri"
+        android:paddingTop="5dp"
+        android:paddingStart="1dp"
+        android:paddingEnd="5dp"
+        android:textStyle="bold" />
+
+</FrameLayout>

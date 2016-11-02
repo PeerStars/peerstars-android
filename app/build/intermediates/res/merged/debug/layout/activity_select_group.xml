@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".pstcreate_account.PSTSelectGroupActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:id="@+id/imgUser"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:contentDescription="@string/background_splash"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ps_splash" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/transbackgroundblack" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/controlsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtPrevious"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="btnBack_OnClick"
+                android:text="@string/back"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/white"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/txtDone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/done"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                android:onClick="btnDone_OnClick" />
+        </RelativeLayout>
+
+        <com.peerstars.android.pstutilities.PSTCustomTextView
+            android:id="@+id/CustomTextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/CustomTextView2"
+            android:text="@string/company_name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textSize="40sp"
+            app:customFont="varsity_regular.ttf" />
+
+        <com.peerstars.android.pstutilities.PSTCustomTextView
+            android:id="@+id/CustomTextView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/actvGroupSelect"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/select_school"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            app:customFont="varsity_regular.ttf" />
+
+        <AutoCompleteTextView
+            android:id="@+id/actvGroupSelect"
+            android:labelFor="@id/actvGroupSelect"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="16dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/transbackgroundgrey"
+            android:ems="10"
+            android:paddingTop="5dp"
+            android:inputType="textAutoComplete"
+            android:paddingBottom="5dp"
+            android:imeOptions="actionDone"
+            android:paddingStart="10dp"
+            android:paddingEnd="1dp">
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

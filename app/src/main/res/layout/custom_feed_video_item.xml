@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/flagged"
+        android:id="@+id/flaggedView"
+        android:layout_gravity="top|right"
+        android:layout_margin="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:background="@color/design_textinput_error_color_light"
+        android:textColor="@android:color/white"
+        android:visibility="invisible" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:progressDrawable="@drawable/circular_progress_view"
+        android:layout_gravity="center" />
+
+    <com.peerstars.android.pstfeed.PSTCustomFeedVideoView
+        android:id="@+id/movie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/thumbView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/none"
+        android:clickable="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <TextView
+            android:id="@+id/txtActions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="@string/three_dots"
+            android:foregroundGravity="center"
+            android:clickable="true"
+            android:layout_marginStart="20dp"
+            android:textSize="35dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:paddingBottom="10dp"
+            android:paddingEnd="35dp"
+            android:paddingStart="5dp" />
+
+        <TextView
+            android:id="@+id/txtTags"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/txtActions"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:textColor="#F8F8FF"
+            android:paddingStart="5dp"
+            android:paddingEnd="35dp"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:id="@+id/providerName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/providerImage"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="5dp" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:id="@+id/imageView"
+            android:layout_toStartOf="@+id/txtLifetime"
+            android:layout_below="@+id/providerName"
+            android:background="@drawable/clockblue"
+            android:contentDescription="@string/none"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/txtLifetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/providerImage"
+            android:layout_below="@+id/providerName"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp" />
+
+        <com.peerstars.android.pstportraits.PSTCustomImageView
+            android:id="@+id/providerImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/videoicon"
+        android:layout_gravity="center"
+        android:background="@drawable/play_video_icon"
+        android:contentDescription="@string/none"
+        android:maxHeight="300dp"
+        android:maxWidth="400dp" />
+
+</FrameLayout>

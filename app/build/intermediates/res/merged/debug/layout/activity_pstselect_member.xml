@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".pstutilities.PSTSelectMemberActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:id="@+id/imgUser"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:contentDescription="@string/background_splash"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ps_splash" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/transbackgroundblack" />
+
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/controlsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="10dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="btnCancel_OnClick"
+                android:text="@string/cancel"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/white"
+                android:textSize="24sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtCancel">
+
+                <TextView
+                    android:id="@+id/txtTo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/to"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:textColor="@android:color/white"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp" />
+
+                <EditText
+                    android:id="@+id/fldRecipient"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_toEndOf="@+id/txtTo"
+                    android:background="@drawable/transbackgroundgrey"
+                    android:padding="5dp"
+                    android:layout_margin="5dp" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txtNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="false"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/next"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                android:onClick="btnNext_OnClick" />
+        </RelativeLayout>
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lstMembers"
+            android:layout_below="@id/controlsLayout" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+

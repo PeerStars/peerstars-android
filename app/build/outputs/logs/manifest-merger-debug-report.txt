@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.camera2.full
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:8:19-63
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:15:22-68
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:17:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:20:22-77
+application
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:22:5-96:19
+MERGED from [com.android.support:design:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.peerstars.android.pststartup.PSTStartupActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:28:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.peerstars.android.pstlogin.PSTLoginActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:38:13-54
+activity#com.peerstars.android.pstfeed.PSTFeedActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:42:13-52
+activity#com.peerstars.android.pstcreate_account.PSTCreateAccountActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:46:13-71
+activity#com.peerstars.android.pstcreate_account.PSTSelectGroupActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:51:13-66
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:50:13-69
+activity#com.peerstars.android.pstportraits.PSTPortraitsActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:55:13-61
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:54:13-62
+activity#com.peerstars.android.pstprofile.PSTProfileActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:59:13-59
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:58:13-58
+activity#com.peerstars.android.pstsignature.PSTSignaturesActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:63:13-62
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:62:13-63
+activity#com.peerstars.android.pstbase.PSTTabbedActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:67:13-58
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:66:13-54
+activity#com.peerstars.android.pstcamera.PSTCameraActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:70:13-56
+activity#com.peerstars.android.pstforgot_password.PSTForgotPasswordActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:73:9-75:70
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:75:13-67
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:74:13-73
+activity#com.peerstars.android.pstfeed.PSTImageFullScreenActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:76:9-78:75
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:78:13-72
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:77:13-63
+activity#com.peerstars.android.psttags.PSTEditTagsActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:79:9-65
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:79:19-62
+activity#com.peerstars.android.pstpeerbook_webpage.PeerStarsWebPageActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:82:13-71
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:81:13-73
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:85:9-87:38
+	android:enabled
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:87:13-35
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:86:13-93
+activity#com.peerstars.android.pstcamera.PSTViewContentActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:91:13-67
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:90:13-61
+activity#com.peerstars.android.pstutilities.PSTSelectMemberActivity
+ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:93:9-95:80
+	android:label
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:95:13-68
+	android:name
+		ADDED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml:94:13-65
+uses-sdk
+INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\StudioProjects\PeerStarsAndriodApp1\app\src\main\AndroidManifest.xml

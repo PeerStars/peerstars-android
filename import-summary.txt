@@ -1,0 +1,56 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Home_Icon.PNG
+* SilvertonSFMSServer01.PNG
+* camera_button.PNG
+* camera_button96.png
+* camera_capture_button.PNG
+* camera_capture_button68.png
+* camera_cell_symbol.png
+* home_icon128.png
+* home_icon32.png
+* home_icon64.png
+* home_icon96.png
+* ic_launcher-web.png
+* portraits.PNG
+* portraits96.png
+* profile_button.PNG
+* profile_button96.png
+* proguard-project.txt
+* settings_button.PNG
+* signatures_button.PNG
+* signatures_button96.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* camera_capture_button.PNG => camera_capture_button.png
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\android-support-v13.jar => app\libs\android-support-v13.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

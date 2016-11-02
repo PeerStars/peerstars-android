@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".pstcamera.PSTCameraActivity">
+
+    <SurfaceView
+        android:id="@+id/surfaceViewCamera"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/relativeLayout">
+
+        <GridLayout
+            android:id="@+id/control_grid"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true">
+
+            <Button
+                android:id="@+id/button_photo"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="75dp"
+                android:background="@drawable/transbackgroundgrey"
+                android:text="@string/photo"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:clickable="true"
+                android:onClick="btnPhoto_OnClick"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/button_video"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="75dp"
+                android:background="@drawable/transbackgroundgrey"
+                android:text="@string/video"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:clickable="true"
+                android:onClick="btnVideo_OnClick" />
+
+        </GridLayout>
+
+        <Button
+            android:id="@+id/button_back"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transbackgroundwhitenoborder"
+            android:onClick="btnBack_OnClick"
+            android:text="@string/x_button"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <Button
+            android:id="@+id/button_switch"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/switch_cameras_icon"
+            android:onClick="btnSwitchCameras_OnClick"
+            android:text="@string/x_button"
+            android:layout_alignParentEnd="true"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/camera_capture_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/camera_capture_button68"
+        android:onClick="btnCapture_OnClick" />
+
+    <ImageView
+        android:id="@+id/button_camera_roll"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="20dp"
+        android:clickable="true"
+        android:contentDescription="@string/last_image"
+        android:src="@drawable/camera_cell_symbol"
+        android:onClick="btnGallery_OnClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/number_30"
+        android:id="@+id/txtCounter"
+        android:layout_above="@+id/textLandscapeOnly"
+        android:layout_marginBottom="25dp"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/landscapeOnly1"
+        android:id="@+id/textLandscapeOnly"
+        android:layout_centerInParent="true"
+        android:background="@drawable/transbackgroundblack"
+        android:maxLines="3"
+        android:padding="20dp"
+        android:layout_marginStart="50dp"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

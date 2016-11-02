@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Are You Sure!"
+        android:id="@+id/txtConfirmText"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:textColor="#FF0000"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtConfirmText"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Yes"
+            android:id="@+id/btnConfirmYes"
+            android:background="@drawable/transbackgroundgrey"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No"
+            android:id="@+id/btnConfirmNo"
+            android:background="@drawable/transbackgroundgrey"
+            android:layout_margin="5dp"
+            android:textSize="20dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <WebView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="30dp" />
+
+    <TextView
+        android:id="@+id/return_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/return_text"
+        android:layout_gravity="bottom"
+        android:foregroundGravity="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:clickable="true"
+        android:onClick="onClick_Return"
+        android:background="@drawable/transbackgroundblack"
+        android:gravity="center" />
+</FrameLayout>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/transbackgroundgrey"
+    tools:context=".pstsignature.PSTSignaturesActivity">
+
+
+    <ImageView
+        android:id="@+id/thumbView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:padding="5dp"
+        android:layout_margin="8dp"
+        android:contentDescription="@string/none"
+        android:layout_gravity="center" />
+
+    <com.peerstars.android.pstsignature.PSTCustomSignatureVideoView
+        android:id="@+id/movie"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:background="@drawable/transbackgroundgrey" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <TextView
+            android:id="@+id/txtTags"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:textColor="#F8F8FF"
+            android:paddingStart="5dp"
+            android:paddingEnd="35dp"
+            android:paddingBottom="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" />
+
+        <TextView
+            android:id="@+id/providerName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/providerImage"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="5dp" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:id="@+id/imageView"
+            android:layout_toStartOf="@+id/txtLifetime"
+            android:layout_below="@+id/providerName"
+            android:background="@drawable/clockblue"
+            android:contentDescription="@string/none"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/txtLifetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/providerImage"
+            android:layout_below="@+id/providerName"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp" />
+
+        <com.peerstars.android.pstportraits.PSTCustomImageView
+            android:id="@+id/providerImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/btnDecline"
+            android:layout_margin="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="2dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="2dp"
+            android:background="@drawable/transbackgroundgrey"
+            android:clickable="true"
+            android:text="@string/decline"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/accept"
+            android:id="@+id/btnAccept"
+            android:layout_alignParentStart="false"
+            android:layout_margin="10dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="2dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="2dp"
+            android:background="@drawable/transbackgroundgrey"
+            android:clickable="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true" />
+
+    </RelativeLayout>
+
+</FrameLayout>

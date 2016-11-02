@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.peerstars.android.pstcamera.PSTViewContentActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imagePreview"
+        android:layout_gravity="center" />
+
+    <VideoView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoPreview"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel"
+        android:id="@+id/btnCancel"
+        android:layout_gravity="left|bottom"
+        android:textSize="20sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/transbackgroundgrey"
+        android:clickable="true"
+        android:onClick="btnCancel_OnClick"
+        android:layout_margin="15dp" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/accept"
+        android:id="@+id/btnAccept"
+        android:layout_gravity="right|bottom"
+        android:textSize="20sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/transbackgroundgrey"
+        android:onClick="btnAccept_OnClick"
+        android:layout_margin="15dp" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="@string/add_tags"
+        android:id="@+id/btnAddTags"
+        android:layout_gravity="center_horizontal|bottom"
+        android:textSize="20sp"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/transbackgroundgrey"
+        android:onClick="btnAddTags_OnClick"
+        android:layout_margin="15dp" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/uploadProgressBar"
+        android:progressDrawable="@drawable/circular_progress_view"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Uploading file (0%)"
+        android:id="@+id/txtUploadProgress"
+        android:layout_gravity="center"
+        android:background="@drawable/transbackgroundgrey"
+        android:textSize="20dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Private"
+        android:id="@+id/privateCBox"
+        android:layout_gravity="right|top"
+        android:checked="true"
+        android:layout_margin="15dp"
+        android:background="@drawable/transbackgroundgrey"
+        android:padding="5dp" />
+</FrameLayout>
+
