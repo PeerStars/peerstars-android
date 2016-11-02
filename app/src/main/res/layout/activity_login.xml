@@ -1,5 +1,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app1="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
@@ -26,7 +27,7 @@
             android:background="@drawable/transbackgroundblack" />
     </FrameLayout>
 
-    <TextView
+    <com.peerstars.android.pstutilities.PSTCustomTextView
         android:id="@+id/customTextView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -36,10 +37,10 @@
         android:text="@string/app_name"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@android:color/white"
-        android:textSize="40sp" />
-    <!--app1:customFont="varsity_regular.ttf" /-->
+        android:textSize="40sp"
+        app1:customFont="varsity_regular.ttf" />
 
-    <TextView
+    <com.peerstars.android.pstutilities.PSTCustomTextView
         android:id="@+id/customTextView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -47,9 +48,10 @@
         android:layout_centerHorizontal="true"
         android:text="@string/remembering"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/white"
+        app1:customFont="varsity_regular.ttf" />
 
-    <TextView
+    <com.peerstars.android.pstutilities.PSTCustomTextView
         android:id="@+id/customTextView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -57,7 +59,8 @@
         android:layout_centerHorizontal="true"
         android:text="@string/your_yearbook"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/white"
+        app1:customFont="varsity_regular.ttf" />
 
     <EditText
         android:id="@+id/txtUser"

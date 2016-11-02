@@ -4,12 +4,12 @@
         "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_cameras_icon.png",

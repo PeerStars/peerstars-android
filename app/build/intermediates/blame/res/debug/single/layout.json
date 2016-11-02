@@ -4,12 +4,12 @@
         "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\Android\\StudioProjects\\PeerStarsAndriodApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirmation_yes_no.xml",

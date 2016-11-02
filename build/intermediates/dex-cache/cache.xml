@@ -1,3 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_2c3ed9da93016e74e4488fd5b739961ea79634a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bmiller\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.5\af5dbe771d4895b85eb9e11210634091015feefd\aws-android-sdk-core-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af5dbe771d4895b85eb9e11210634091015feefd">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.5_fe5bf0c8b4187932c8180f74ca619efee5370606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_29e6efe75c5a3ae55a8abe38d2e197589f720eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_7b501771e2c3f870643d81e6a70a83c5962cc893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_c1134cd2a40ec3d02f5f377e9003bc544db0035c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bmiller\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.5\f06b5c3843a67eb763f2504caa43b9cf0fbf443a\aws-android-sdk-cognito-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f06b5c3843a67eb763f2504caa43b9cf0fbf443a">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.2.5_50db978ced00520a62cc6ecd15fb2cc666ef2548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_8631d5e575adbf6eb46989f066d9266c74a8b80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_13a1e9a33085af9551f78930480882e59f8049d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bmiller\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.5\ecffe01b776b6635f9747e1dbee362a939c286de\aws-android-sdk-s3-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecffe01b776b6635f9747e1dbee362a939c286de">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.2.5_474e8579a1c0c964fe7d8748755ac73f63eeba9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_7db44deaf7d8f7faef6ddd516949fc5931f936c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bmiller\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.5\6972b33c3c47dbee86150da019da23de14c8fd97\aws-android-sdk-ddb-2.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6972b33c3c47dbee86150da019da23de14c8fd97">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.2.5_d2df4c4ead7c62e3c7a1f860ef8f663504c9bbfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_bc4e600c5781e80c5c7deff9d97fe6c4f78aa13d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a81ae74f6be6596d2439793de2ac8f3b4dbf7c1">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2f08be77f4d81b38ea1a7fdd6c76a8807705560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b90cf74f4fa274eb3bf15c16d0c0cde22f1da38a">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_894023a18b0d3e57b4b5c01aae35782deedf8f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Android\StudioProjects\PeerStarsAndriodApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_d6267d108258454c1b7083440e9338e477d733ce\classes.dex" />
+    </item>
+
+</items>
